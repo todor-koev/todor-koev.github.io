@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Todor Koev"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Todor Koev"
 description              : &description "personal description"
@@ -80,9 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Contact"
+  name             : "Todor Koev"
   avatar           : "profilepic.jpg"
   email            : "﻿﻿tkoev@scarletmail.rutgers.edu"
+  github           : # "academicpages"
   location         : "Department of Linguistics"
   employer         : "University of Konstanz"
   googlescholar    : "https://scholar.google.com/citations?user=2Q8pk0EAAAAJ&hl=en"
@@ -94,7 +95,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
