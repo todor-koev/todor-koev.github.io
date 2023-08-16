@@ -83,8 +83,8 @@ author:
   name             : # "Department of Linguistics, University of Konstanz"
   avatar           : "profile.png"
   email            : "﻿﻿tkoev@scarletmail.rutgers.edu"
-  location         : "Department of Linguistics"
-  employer         : "University of Konstanz"
+  location         : "Department of Linguistics, University of Konstanz"
+  employer         : # "University of Konstanz"
   googlescholar    : "https://scholar.google.com/citations?user=2Q8pk0EAAAAJ&hl=en"
   researchgate     : 
   uri              :
