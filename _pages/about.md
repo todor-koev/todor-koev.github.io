@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+------
 
 I earned my PhD in linguistics from Rutgers University in 2013. Following that, I held positions as a Postdoctoral Researcher at the University of Stuttgart and the University of Düsseldorf. Afterward, I was an Emmy Noether Fellow at the University of Konstanz. In the fall semester of 2018, I was a Visiting Scholar at MIT, and in the winter quarter of 2023, I was a Visiting Scholar at Stanford University. Currently, I am a Guest Researcher at the [University of Konstanz](https://www.ling.uni-konstanz.de/en/), where I will a Visiting Professor during the winter semester of 2023-2024.   
 
