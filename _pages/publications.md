@@ -17,7 +17,8 @@ author_profile: true
 
 **Book**
 
-sdfsdfsdf
+2022. [*Parenthetical Meaning*](). Oxford Studies in Semantics and Pragmatics. OUP. [chapter 1](https://global.oup.com/academic/product/parenthetical-meaning-9780198869535?lang=en&cc=sg) 
+Note: Copyright restrictions prevent me from posting online the entire book but the full pre-publication draft is available upon request.
 
 **Journal Articles**
 
