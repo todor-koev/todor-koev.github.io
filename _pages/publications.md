@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 ------
-
 **Under Submission / In Revision**
 
 sdfsdfsdf
