@@ -13,7 +13,7 @@ author_profile: true
 
 "An Argument for a Strong Force Semantics of *Believe*." ([draft](/files/li_squib.pdf))
 
-"Question Bias from Polarity Focus." (with [Cory Bill](https://www.corybill.com/)) ([draft](https://www.corybill.com/))
+"Question Bias from Polarity Focus." (with [Cory Bill](https://www.corybill.com/)) ([draft](/files/question_bias_from_polarity_focus.pdf))
 
 **Book**
 
