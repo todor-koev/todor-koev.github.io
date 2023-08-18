@@ -7,11 +7,11 @@ author_profile: true
 ------
 **Under Submission / In Revision**
 
-"Adverbs of Change and Dynamicity." [draft](/files/adverbs_of_change_and_dynamicity.pdf)
+"Adverbs of Change and Dynamicity." ([draft](/files/adverbs_of_change_and_dynamicity.pdf))
 
-"On the Weakness of *Believe*." [draft](/files/ontheweaknessofbelieve.pdf)
+"On the Weakness of *Believe*." ([draft](/files/ontheweaknessofbelieve.pdf))
 
-"An Argument for a Strong Force Semantics of Believe." [draft](/files/li_squib.pdf)
+"An Argument for a Strong Force Semantics of *Believe*." ([draft](/files/li_squib.pdf))
 
 **Book**
 
