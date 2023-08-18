@@ -7,7 +7,7 @@ author_profile: true
 ------
 **Under Submission / In Revision**
 
-sdfsdfsdf
+"Adverbs of Change and Dynamicity." [draft](files/adverbs_of_change_and_dynamicity.pdf)
 
 **Book**
 
