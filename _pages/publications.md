@@ -17,7 +17,8 @@ author_profile: true
 
 **Book**
 
-(2022). [*Parenthetical Meaning*](https://global.oup.com/academic/product/parenthetical-meaning-9780198869535?lang=en&cc=sg). Oxford Studies in Semantics and Pragmatics. OUP. [chapter 1](/files/parenthetical_meaning_-_chapter_1.pdf)
+(2022). [*Parenthetical Meaning*](https://global.oup.com/academic/product/parenthetical-meaning-9780198869535?lang=en&cc=sg). Oxford Studies in Semantics and Pragmatics. OUP. ([chapter 1](/files/parenthetical_meaning_-_chapter_1.pdf)) 
+
 Note: Copyright restrictions prevent me from posting online the entire book but the full pre-publication draft is available upon request.
 
 **Journal Articles**
