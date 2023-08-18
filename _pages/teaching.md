@@ -17,7 +17,8 @@ author_profile: true
 
 (Winter 2016–2017) *Dynamic Semantics*. B.A. level seminar. Instructor 
 
-(Winter 2016–2017) *Hidden Meaning in Public Discourse*. B.A. level seminar. Instructor  
+(Winter 2016–2017) *Hidden Meaning in Public Discourse*. B.A. level seminar. Instructor 
+
 (Winter 2015–2016) *Modals, Attitudes, and Conditionals*. B.A. and M.A. level seminar. Instructor 
 
 (Summer 2015) *Scope, Perspective, Projection*. B.A. level seminar. Instructor 
