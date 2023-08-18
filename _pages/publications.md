@@ -11,6 +11,8 @@ author_profile: true
 
 "On the Weakness of *Believe*." [draft](/files/ontheweaknessofbelieve.pdf)
 
+"An Argument for a Strong Force Semantics of Believe." [draft]()
+
 **Book**
 
 sdfsdfsdf
