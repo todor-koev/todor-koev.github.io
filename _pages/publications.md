@@ -5,15 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-Book
-======
+**Under Submission / In Revision**
+
 sdfsdfsdf
 
-Journal Articles
-======
+**Book**
+
+sdfsdfsdf
+
+**Journal Articles**
+
 sdffdsfsfd
 
-Conference Proceedings 
-======
+**Conference Proceedings**
+
 adsdsdfsd
 
