@@ -22,7 +22,19 @@ author_profile: true
 
 **Journal Articles**
 
-sdffdsfsfd
+(2023). "Gradient At-issueness vs. Uncertainty about Binary At-issueness." To appear in *Theoretical Linguistics* 49.3-4.
+
+(2021). "Parentheticality, Assertion Strength, and Polarity." *Linguistics and Philosophy* 44: 113–140. doi: 10.1007/s10988-019-09285-4
+
+(2018). "Notions of At-issueness." *Language and Linguistics Compass* 12(12): 1–16. doi: 10.1111/lnc3.12306
+
+(2017). "Quotational Indefinites." *Natural Language and Linguistic Theory* 35(2): 367–396. doi: 10.1007/s11049-016-9344-x
+
+(2017). "Evidentiality, Learning Events, and Spatiotemporal Distance: The View from Bulgarian." *Journal of Semantics* 34(1): 1–41. doi: 10.1093/jos/ffv014
+
+(2015). "Experimental Evidence for the Truth Conditional Contribution and Shifting Information Status of Appositives." (with [Kristen Syrett](https://sites.rutgers.edu/kristen-syrett/)) *Journal of Semantics* 32(3): 525–577. doi: 10.1093/jos/ffu007
+
+(2015). "An 'Antiproviso Problem' for Appositive Relative Clauses." *Snippets* 29(4): 11–12, doi: 10.7358/snip-2015-029-koev
 
 **Book Chapters**
 
