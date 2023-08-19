@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Todor Koev" 
-  bitbucket        :
+  ---
   avatar           : "profilepic.jpg"
   email            : "﻿﻿tkoev@scarletmail.rutgers.edu"
   github           : # "academicpages"
@@ -96,6 +96,7 @@ author:
   facebook         :
   foursquare       :
   google_plus      :
+  bitbucket        :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
