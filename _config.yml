@@ -80,7 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Todor Koev ---"
+  name             : "Todor Koev" 
+  
   avatar           : "profilepic.jpg"
   email            : "﻿﻿tkoev@scarletmail.rutgers.edu"
   github           : # "academicpages"
