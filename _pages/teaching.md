@@ -15,20 +15,30 @@ Ling312 - *Core Components of Language B*. M.A. level introduction to syntax, se
 
 **University of Düsseldorf**
 
-(Winter 2016–2017) *Dynamic Semantics*. B.A. level seminar. Instructor 
+*Dynamic Semantics*. B.A. level seminar. Instructor (Winter 2016–2017)
 
-(Winter 2016–2017) *Hidden Meaning in Public Discourse*. B.A. level seminar. Instructor 
+*Hidden Meaning in Public Discourse*. B.A. level seminar. Instructor (Winter 2016–2017) 
 
-(Winter 2015–2016) *Modals, Attitudes, and Conditionals*. B.A. and M.A. level seminar. Instructor 
+*Modals, Attitudes, and Conditionals*. B.A. and M.A. level seminar. Instructor (Winter 2015–2016) 
 
-(Summer 2015) *Scope, Perspective, Projection*. B.A. level seminar. Instructor 
+*Scope, Perspective, Projection*. B.A. level seminar. Instructor (Summer 2015) 
 
-(Winter 2014–2015) *Entailment, Implicature, Presupposition*. B.A. level seminar. Instructor 
+*Entailment, Implicature, Presupposition*. B.A. level seminar. Instructor (Winter 2014–2015) 
 
-(Summer 2015, Summer 2016, Summer 2017) *Introduction to Pragmatics*. B.A. level introduction. Instructor 
+*Introduction to Pragmatics*. B.A. level introduction. Instructor (Summer 2015, Summer 2016, Summer 2017) 
 
-(Winter 2014–2015) *Introduction to Logic*. B.A. level introduction. Instructor 
+*Introduction to Logic*. B.A. level introduction. Instructor (Winter 2014–2015) 
 
 **Rutgers University**
 
-teaching
+Ling325 - *Semantics*. Lecturer (Spring 2012, Fall 2011), Grader for Prof. Roger Schwarzschild (Spring 2008)
+
+Ling201 - *Introduction to Linguistic Theory*. Lecturer (Spring 2010)
+
+Ling101 - *Introduction to the Study of Language*. Teaching Assistant for Prof. Paul de Lacy (Fall 2009, Fall 2008)
+
+**University of Delaware**
+
+Ling101 - *Introduction to Linguistics*. Tutor for Prof. Gabriela Hermon (Spring 2007)
+
+CGSC330 - *Philosophy of Mind*. Grader for Prof. Fred Adams (Fall 2006)
