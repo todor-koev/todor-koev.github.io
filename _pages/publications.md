@@ -22,7 +22,7 @@ author_profile: true
 
 **Journal Articles**
 
-(2023). "Gradient At-issueness vs. Uncertainty about Binary At-issueness." To appear in *Theoretical Linguistics* 49.3-4.
+(2023). "Gradient At-issueness vs. Uncertainty about Binary At-issueness." To appear in *Theoretical Linguistics* 49.3–4.
 
 (2021). "Parentheticality, Assertion Strength, and Polarity." *Linguistics and Philosophy* 44: 113–140. doi: 10.1007/s10988-019-09285-4
 
@@ -46,5 +46,29 @@ Essays in Honor of Roger Schwarzschild. Springer, 283–303.
 
 **Conference Proceedings**
 
-adsdsdfsd
+(2023). "Vanilla Rules: The 'no ice cream' construction." (with [Felix Frühauf](https://www.germanistik.uni-hannover.de/de/seminar/personenverzeichnis/fruehauf#), [Hadil Karawani](https://hadilkarawani.myfreesites.net/), [Natasha Korotkova](https://natasha-korotkova.github.io/), [Doris Penka](https://ling.sprachwiss.uni-konstanz.de/pages/home/penka/), and [Daniel Skibra](http://danielskibra.weebly.com/)) To appear in *Sinn und Bedeutung* 27.
+
+2022 “Really: Ambiguity and Question Bias” (with Cory Bill)
+Sinn und Bedeutung 26: 130–148.
+2021 “Verum Accent is VERUM, but Not Always Focus” (with Cory Bill)
+Linguistic Society of America 6(1): 188–202, LSA
+2021 “Believe is Strong but Subjective: Experimental Evidence from Hedging” (with Cory Bill
+and Maryam Mohammadi)
+Sinn und Bedeutung 25: 497–514, Open Journal Systems
+2019 “Strong Beliefs, Weak Commitments”
+Sinn und Bedeutung 23(2): 1–18, semanticsarchive
+2017 “Parentheticality, Assertion Strength, and Discourse”
+Sinn und Bedeutung 21: 679–694, semanticsarchive
+2016 “On Quotational Indefinites”
+Sinn und Bedeutung 20: 412–423, semanticsarchive
+2016 “The Shiftability of German Appositive Relatives across Intensional Contexts: Two Experimental Studies”
+West Coast Conference on Formal Linguistics 33: 237–245, Cascadilla
+2014 “Two Puzzles about Appositives: Projection and Perspective Shift”
+Sinn und Bedeutung 18: 217–234, semanticsarchive
+2012 “On the Information Status of Appositive Relative Clauses”
+Amsterdam Colloquium 18: 401–410, Springer
+2011 “Evidentiality and Temporal Distance Learning”
+Semantics And Linguistic Theory 21: 115–134, eLanguage
+2011 “Definiteness as Agreement: Evidence from Bulgarian”
+West Coast Conference on Formal Linguistics 28: 133–141, Cascadilla
 
