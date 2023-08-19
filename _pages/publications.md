@@ -45,7 +45,7 @@ author_profile: true
 
 **Conference Proceedings**
 
-(2023). "Vanilla Rules: The 'no ice cream' construction." (with [Felix Frühauf](https://www.germanistik.uni-hannover.de/de/seminar/personenverzeichnis/fruehauf#), [Hadil Karawani](https://hadilkarawani.myfreesites.net/), [Natasha Korotkova](https://natasha-korotkova.github.io/), [Doris Penka](https://ling.sprachwiss.uni-konstanz.de/pages/home/penka/), and [Daniel Skibra](http://danielskibra.weebly.com/)) To appear in *Sinn und Bedeutung* 27.
+(2023). "Vanilla Rules: The 'no ice cream' construction." (with [Felix Frühauf](https://www.germanistik.uni-hannover.de/de/seminar/personenverzeichnis/fruehauf#), [Hadil Karawani](https://hadilkarawani.myfreesites.net/), [Natasha Korotkova](https://natasha-korotkova.github.io/), [Doris Penka](https://ling.sprachwiss.uni-konstanz.de/pages/home/penka/), and [Daniel Skibra](http://danielskibra.weebly.com/)) To appear in *Sinn und Bedeutung* 27. [[preprint](/files/no_ice_cream__preprint_.pdf)]
 
 (2022). ["*Really*: Ambiguity and Question Bias."](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/992) (with [Cory Bill](https://www.corybill.com/)) *Sinn und Bedeutung* 26: 130–148, Open Journal Systems.
 
