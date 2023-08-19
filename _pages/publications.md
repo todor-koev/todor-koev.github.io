@@ -22,19 +22,19 @@ author_profile: true
 
 **Journal Articles**
 
-(2023). "Gradient At-issueness vs. Uncertainty about Binary At-issueness." To appear in *Theoretical Linguistics* 49.3–4. [draft](/files/gradient_at-issueness_vs._uncertainty_about_binary_at-issueness__prepublication_.pdf)
+(2023). "Gradient At-issueness vs. Uncertainty about Binary At-issueness." To appear in *Theoretical Linguistics* 49.3–4. [[draft](/files/gradient_at-issueness_vs._uncertainty_about_binary_at-issueness__prepublication_.pdf)]
 
-(2021). ["Parentheticality, Assertion Strength, and Polarity."](https://link.springer.com/article/10.1007/s10988-019-09285-4) *Linguistics and Philosophy* 44: 113–140. doi: 10.1007/s10988-019-09285-4 [preprint](/files/parentheticality_assertion_strength_and_polarity.pdf)
+(2021). ["Parentheticality, Assertion Strength, and Polarity."](https://link.springer.com/article/10.1007/s10988-019-09285-4) *Linguistics and Philosophy* 44: 113–140. doi: 10.1007/s10988-019-09285-4 [[preprint](/files/parentheticality_assertion_strength_and_polarity.pdf)]
 
-(2018). ["Notions of At-issueness."](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/lnc3.12306) *Language and Linguistics Compass* 12(12): 1–16. doi: 10.1111/lnc3.12306 [preprint](/files/notions_of_at-issueness.pdf)
+(2018). ["Notions of At-issueness."](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/lnc3.12306) *Language and Linguistics Compass* 12(12): 1–16. doi: 10.1111/lnc3.12306 [[preprint](/files/notions_of_at-issueness.pdf)]
 
-(2017). ["Quotational Indefinites."](https://link.springer.com/article/10.1007/s11049-016-9344-x?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst) *Natural Language and Linguistic Theory* 35(2): 367–396. doi: 10.1007/s11049-016-9344-x [preprint](/files/quotationalindefinites.pdf)
+(2017). ["Quotational Indefinites."](https://link.springer.com/article/10.1007/s11049-016-9344-x?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst) *Natural Language and Linguistic Theory* 35(2): 367–396. doi: 10.1007/s11049-016-9344-x [[preprint](/files/quotationalindefinites.pdf)]
 
-(2017). "Evidentiality, Learning Events, and Spatiotemporal Distance: The View from Bulgarian." *Journal of Semantics* 34(1): 1–41. doi: 10.1093/jos/ffv014
+(2017). ["Evidentiality, Learning Events, and Spatiotemporal Distance: The View from Bulgarian."](https://academic.oup.com/jos/article-abstract/34/1/1/2555463?rss=1) *Journal of Semantics* 34(1): 1–41. doi: 10.1093/jos/ffv014 [[preprint](/files/evidentiality_learning_events_and_spatiotemporal_distance.pdf)]
 
-(2015). "Experimental Evidence for the Truth Conditional Contribution and Shifting Information Status of Appositives." (with [Kristen Syrett](https://sites.rutgers.edu/kristen-syrett/)) *Journal of Semantics* 32(3): 525–577. doi: 10.1093/jos/ffu007
+(2015). ["Experimental Evidence for the Truth Conditional Contribution and Shifting Information Status of Appositives."](https://academic.oup.com/jos/article-abstract/32/3/525/1640703?sid=413cb86a-9529-403d-b716-f4c153dfda7e) (with [Kristen Syrett](https://sites.rutgers.edu/kristen-syrett/)) *Journal of Semantics* 32(3): 525–577. doi: 10.1093/jos/ffu007 [[preprint](https://semanticsarchive.net/Archive/zg1ZDU4Z/)]
 
-(2015). "An 'Antiproviso Problem' for Appositive Relative Clauses." *Snippets* 29(4): 11–12. doi: 10.7358/snip-2015-029-koev
+(2015). ["An 'Antiproviso Problem' for Appositive Relative Clauses."](https://www.ledonline.it/snippets/allegati/snippets29004.pdf) *Snippets* 29(4): 11–12. doi: 10.7358/snip-2015-029-koev
 
 **Book Chapters**
 
