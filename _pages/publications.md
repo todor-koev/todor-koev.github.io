@@ -22,7 +22,7 @@ author_profile: true
 
 **Journal Articles**
 
-(2023). "Gradient At-issueness vs. Uncertainty about Binary At-issueness." To appear in *Theoretical Linguistics* 49.3–4. [[draft](/files/gradient_at-issueness_vs._uncertainty_about_binary_at-issueness__prepublication_.pdf)]
+(2023). "Gradient At-issueness vs. Uncertainty about Binary At-issueness." To appear in *Theoretical Linguistics* 49.3–4. [[preprint](/files/gradient_at-issueness_vs._uncertainty_about_binary_at-issueness__prepublication_.pdf)]
 
 (2021). ["Parentheticality, Assertion Strength, and Polarity."](https://link.springer.com/article/10.1007/s10988-019-09285-4) *Linguistics and Philosophy* 44: 113–140. doi: 10.1007/s10988-019-09285-4 [[preprint](/files/parentheticality_assertion_strength_and_polarity.pdf)]
 
