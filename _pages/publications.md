@@ -48,24 +48,24 @@ Essays in Honor of Roger Schwarzschild. Springer, 283–303.
 
 (2023). "Vanilla Rules: The 'no ice cream' construction." (with [Felix Frühauf](https://www.germanistik.uni-hannover.de/de/seminar/personenverzeichnis/fruehauf#), [Hadil Karawani](https://hadilkarawani.myfreesites.net/), [Natasha Korotkova](https://natasha-korotkova.github.io/), [Doris Penka](https://ling.sprachwiss.uni-konstanz.de/pages/home/penka/), and [Daniel Skibra](http://danielskibra.weebly.com/)) To appear in *Sinn und Bedeutung* 27.
 
-(2022). "*Really*: Ambiguity and Question Bias." (with [Cory Bill](https://www.corybill.com/)) *Sinn und Bedeutung* 26: 130–148.
+(2022). ["*Really*: Ambiguity and Question Bias."](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/992) (with [Cory Bill](https://www.corybill.com/)) *Sinn und Bedeutung* 26: 130–148, Open Journal Systems.
 
-(2021). "Verum Accent is VERUM, but Not Always Focus." (with [Cory Bill](https://www.corybill.com/)) *Linguistic Society of America* 6(1): 188–202, LSA.
+(2021). ["Verum Accent is VERUM, but Not Always Focus."](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4959/4535) (with [Cory Bill](https://www.corybill.com/)) *Linguistic Society of America* 6(1): 188–202, LSA.
 
-(2021). "*Believe* is Strong but Subjective: Experimental Evidence from Hedging." (with [Cory Bill](https://www.corybill.com/) and Maryam Mohammadi) *Sinn und Bedeutung* 25: 497–514, Open Journal Systems.
+(2021). ["*Believe* is Strong but Subjective: Experimental Evidence from Hedging."](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/950/874) (with [Cory Bill](https://www.corybill.com/) and Maryam Mohammadi) *Sinn und Bedeutung* 25: 497–514, Open Journal Systems.
 
-(2019). "Strong Beliefs, Weak Commitments." *Sinn und Bedeutung* 23(2): 1–18, semanticsarchive.
+(2019). ["Strong Beliefs, Weak Commitments."](https://semanticsarchive.net/Archive/Tg3ZGI2M/Koev.pdf) *Sinn und Bedeutung* 23(2): 1–18, semanticsarchive.
 
-(2017). "Parentheticality, Assertion Strength, and Discourse." *Sinn und Bedeutung* 21: 679–694, semanticsarchive.
+(2017). ["Parentheticality, Assertion Strength, and Discourse."](https://semanticsarchive.net/Archive/DRjNjViN/Koev.pdf) *Sinn und Bedeutung* 21: 679–694, semanticsarchive.
 
-(2016). "On Quotational Indefinites." *Sinn und Bedeutung* 20: 412–423, semanticsarchive.
+(2016). ["On Quotational Indefinites."](https://semanticsarchive.net/sub2015/SeparateArticles/Koev-SuB20.pdf) *Sinn und Bedeutung* 20: 412–423, semanticsarchive.
 
-(2016). "The Shiftability of German Appositive Relatives across Intensional Contexts: Two Experimental Studies. *West Coast Conference on Formal Linguistics* 33: 237–245, Cascadilla.
+(2016). ["The Shiftability of German Appositive Relatives across Intensional Contexts: Two Experimental Studies."](http://www.lingref.com/cpp/wccfl/33/paper3243.pdf) *West Coast Conference on Formal Linguistics* 33: 237–245, Cascadilla.
 
-(2014). "Two Puzzles about Appositives: Projection and Perspective Shift." *Sinn und Bedeutung* 18: 217–234, semanticsarchive.
+(2014). ["Two Puzzles about Appositives: Projection and Perspective Shift."](https://semanticsarchive.net/sub2013/SeparateArticles/Koev.pdf) *Sinn und Bedeutung* 18: 217–234, semanticsarchive.
 
-(2012). "On the Information Status of Appositive Relative Clauses." *Amsterdam Colloquium* 18: 401–410, Springer.
+(2012). ["On the Information Status of Appositive Relative Clauses."](https://link.springer.com/chapter/10.1007/978-3-642-31482-7_41) *Amsterdam Colloquium* 18: 401–410, Springer. [[preprint]()]
 
-(2011). "Evidentiality and Temporal Distance Learning." *Semantics And Linguistic Theory* 21: 115–134, eLanguage.
+(2011). ["Evidentiality and Temporal Distance Learning."](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/viewFile/2594/2342) *Semantics And Linguistic Theory* 21: 115–134, eLanguage.
 
-(2011). "Definiteness as Agreement: Evidence from Bulgarian." *West Coast Conference on Formal Linguistics* 28: 133–141, Cascadilla.
+(2011). ["Definiteness as Agreement: Evidence from Bulgarian."](http://www.lingref.com/cpp/wccfl/28/abstract2445.html) *West Coast Conference on Formal Linguistics* 28: 133–141, Cascadilla.
