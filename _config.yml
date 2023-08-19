@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Todor Koev" 
-  
+  bitbucket        :
   avatar           : "profilepic.jpg"
   email            : "﻿﻿tkoev@scarletmail.rutgers.edu"
   github           : # "academicpages"
@@ -90,7 +90,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=2Q8pk0EAAAAJ&hl=en"
   researchgate     : 
   uri              :
-  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
