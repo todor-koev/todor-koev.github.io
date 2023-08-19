@@ -41,8 +41,8 @@ author_profile: true
 (2023). "Bias in Tag Questions." (with [Cory Bill](https://www.corybill.com/)) To appear in A. Benz et al. (eds.): *Biased Questions: Experimental Results & Theoretical Modelling*. Language Science Press.
 
 (2019). "Adverbs of Change." In D. Altshuler and J. Rett (eds.): *The Semantics of Plurals, Focus, Degrees, and Times*.
-Essays in Honor of Roger Schwarzschild. Springer, 283–303.
-*Note: A shorter version appeared in Semantics And Linguistic Theory 27: 22–42, LSA.*
+Essays in Honor of Roger Schwarzschild. Springer, 283–303.  
+*Note: A shorter version of this paper appeared in Semantics And Linguistic Theory 27: 22–42, LSA.*
 
 **Conference Proceedings**
 
