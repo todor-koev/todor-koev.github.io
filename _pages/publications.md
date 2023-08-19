@@ -34,7 +34,7 @@ author_profile: true
 
 (2015). "Experimental Evidence for the Truth Conditional Contribution and Shifting Information Status of Appositives." (with [Kristen Syrett](https://sites.rutgers.edu/kristen-syrett/)) *Journal of Semantics* 32(3): 525–577. doi: 10.1093/jos/ffu007
 
-(2015). "An 'Antiproviso Problem' for Appositive Relative Clauses." *Snippets* 29(4): 11–12, doi: 10.7358/snip-2015-029-koev
+(2015). "An 'Antiproviso Problem' for Appositive Relative Clauses." *Snippets* 29(4): 11–12. doi: 10.7358/snip-2015-029-koev
 
 **Book Chapters**
 
