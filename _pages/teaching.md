@@ -7,7 +7,13 @@ author_profile: true
 ------
 **University of Konstanz**
 
-Ling251 - *Sociolinguistics: Bias in Public Discourse*. B.A. level seminar. Instructor (Summer 2022)  
+Ling211 - *Modality and Gradability*. B.A./M.A. level seminar. Instructor (Winter 2023-2024)
+
+Ling216 - *Formal Methods*. B.A. level seminar. Instructor (Winter 2023-2024)
+
+Ling116 - *Pragmatics I*. B.A. level introduction. Instructor (Winter 2023-2024)
+
+Ling251 - *Sociolinguistics: Bias in Public Discourse*. B.A. level seminar. Instructor (Summer 2022, Winter 2023-2024)  
 
 Ling315 - *Question Bias*. M.A./Ph.D. level seminar. Instructor (Winter 2021–2022) 
 
