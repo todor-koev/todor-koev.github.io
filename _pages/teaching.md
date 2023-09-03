@@ -9,7 +9,7 @@ author_profile: true
 
 Ling316 - *Formal Methods*. M.A. level seminar. Instructor (Winter 2023-2024)
 
-Ling211 - *Modality and Gradability*. B.A./M.A. level seminar. Instructor (Winter 2023-2024)
+Ling315 - *Modality and Gradability*. M.A. level seminar. Instructor (Winter 2023-2024)
 
 Ling116 - *Pragmatics I*. B.A. level introduction. Instructor (Winter 2023-2024)
 
