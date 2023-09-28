@@ -15,7 +15,7 @@ author_profile: true
 
 ["Question Bias from Polarity Focus."](/files/question_bias_from_polarity_focus.pdf) (with [Cory Bill](https://www.corybill.com/))
 
-["Question Bias"](/files/questionbias.pdf) (with [Cory Bill](https://www.corybill.com/))
+["Question Bias."](/files/questionbias.pdf) (with [Cory Bill](https://www.corybill.com/))
 
 **Book**
 
