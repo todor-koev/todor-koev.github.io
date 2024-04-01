@@ -15,8 +15,6 @@ author_profile: true
 
 ["Question Bias from Polarity Focus."](/files/question_bias_from_polarity_focus.pdf) (with [Cory Bill](https://www.corybill.com/))
 
-["Question Bias."](/files/questionbias.pdf) (with [Cory Bill](https://www.corybill.com/))
-
 **Book**
 
 (2022). [*Parenthetical Meaning*](https://global.oup.com/academic/product/parenthetical-meaning-9780198869535?lang=en&cc=sg). Oxford Studies in Semantics and Pragmatics. OUP. [[chapter 1](/files/parenthetical_meaning_-_chapter_1.pdf)]  
