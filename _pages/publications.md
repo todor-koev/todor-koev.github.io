@@ -20,7 +20,7 @@ author_profile: true
 
 **Journal Articles**
 
-(To appear). ["An Argument for a Strong Force Semantics of *Believe*."](/files/li_squib.pdf) *Linguistic Inquiry*
+(To appear). ["An Argument for a Strong Force Semantics of *Believe*."](/files/li_squib.pdf) *Linguistic Inquiry*.
 
 (2023). ["Gradient At-issueness vs. Uncertainty about Binary At-issueness."](https://www.degruyter.com/document/doi/10.1515/tl-2023-2012/html) *Theoretical Linguistics* 49(3–4): 249–260. doi: 10.1515/tl-2023-2012 [[preprint](/files/gradient_at-issueness_vs._uncertainty_about_binary_at-issueness__prepublication_.pdf)]
 
