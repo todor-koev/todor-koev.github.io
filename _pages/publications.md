@@ -11,8 +11,6 @@ author_profile: true
 
 ["On the Weakness of *Believe*."](/files/ontheweaknessofbelieve.pdf)
 
-["An Argument for a Strong Force Semantics of *Believe*."](/files/li_squib.pdf)
-
 ["Question Bias from Polarity Focus."](/files/question_bias_from_polarity_focus.pdf) (with [Cory Bill](https://www.corybill.com/))
 
 **Book**
@@ -21,6 +19,8 @@ author_profile: true
 *Note: Copyright restrictions prevent me from posting online the entire book but the pre-publication draft is available upon request.*
 
 **Journal Articles**
+
+(To appear). ["An Argument for a Strong Force Semantics of *Believe*."](/files/li_squib.pdf) *Linguistic Inquiry*
 
 (2023). ["Gradient At-issueness vs. Uncertainty about Binary At-issueness."](https://www.degruyter.com/document/doi/10.1515/tl-2023-2012/html) *Theoretical Linguistics* 49(3–4): 249–260. doi: 10.1515/tl-2023-2012 [[preprint](/files/gradient_at-issueness_vs._uncertainty_about_binary_at-issueness__prepublication_.pdf)]
 
