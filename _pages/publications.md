@@ -38,7 +38,7 @@ author_profile: true
 
 **Book Chapters**
 
-(Under contract). "Meaning Projection." In L. Mayol et al. (eds.): *Handbook of Linguistic Interfaces*. Cambridge University Press.
+(Under contract). "Meaning Projection." In L. Mayol et al. (eds.): *Handbook of Linguistic Interfaces*. Cambridge University Press. [[draft](/files/Meaning_Projection.pdf)]
 
 (2023). "Bias in Tag Questions." (with [Cory Bill](https://www.corybill.com/)) To appear in A. Benz et al. (eds.): *Biased Questions: Experimental Results & Theoretical Modelling*. Language Science Press. [[preprint](/files/tag_questions__preprint_.pdf)]
 
