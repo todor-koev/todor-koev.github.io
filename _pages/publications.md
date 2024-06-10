@@ -13,7 +13,7 @@ author_profile: true
 
 ["Question Bias from Polarity Focus."](/files/question_bias_from_polarity_focus.pdf) (with [Cory Bill](https://www.corybill.com/))
 
-**Book**
+**Book** 
 
 (2022). [*Parenthetical Meaning*](https://global.oup.com/academic/product/parenthetical-meaning-9780198869535?lang=en&cc=sg). Oxford Studies in Semantics and Pragmatics. OUP. [[chapter 1](/files/parenthetical_meaning_-_chapter_1.pdf)]  
 *Note: Copyright restrictions prevent me from posting online the entire book, but the pre-publication draft is available upon request.*
@@ -47,7 +47,7 @@ author_profile: true
 
 **Conference Proceedings**
 
-(To appear). ["Speaker Attitudes Predict Epistemic Biases in Polar Questions: Evidence from Farsi."](/files/Farsi_Questions.pdf) (with Maryam Mohammadi) *West Coast Conference on Formal Linguistics* 42.  
+(To appear). ["Speaker Attitudes Predict Epistemic Biases in Polar Questions: Evidence from Farsi."](/files/Farsi Questions.pdf) (with Maryam Mohammadi) *West Coast Conference on Formal Linguistics* 42.  
 
 (2023). ["Vanilla Rules: The 'no ice cream' construction."](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1065) (with [Felix Frühauf](https://www.germanistik.uni-hannover.de/de/seminar/personenverzeichnis/fruehauf#), [Hadil Karawani](https://hadilkarawani.myfreesites.net/), [Natasha Korotkova](https://natasha-korotkova.github.io/), [Doris Penka](https://ling.sprachwiss.uni-konstanz.de/pages/home/penka/), and [Daniel Skibra](http://danielskibra.weebly.com/)) *Sinn und Bedeutung* 27: 209-227, Open Journal Systems.
 
