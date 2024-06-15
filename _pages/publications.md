@@ -47,7 +47,7 @@ author_profile: true
 
 **Conference Proceedings**
 
-(To appear). ["Speaker Attitudes Predict Epistemic Biases in Polar Questions: Evidence from Farsi."](/files/FarsiQuestions.pdf) (with Maryam Mohammadi) *West Coast Conference on Formal Linguistics* 42.  
+(To appear). ["Speaker Attitudes Predict Epistemic Biases in Polar Questions: Evidence from Farsi."](/files/FarsiQuestions.pdf) (with [Maryam Mohammadi](https://mohammadi-maryam.github.io/)) *West Coast Conference on Formal Linguistics* 42.  
 
 (2023). ["Vanilla Rules: The 'no ice cream' construction."](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1065) (with [Felix Frühauf](https://www.germanistik.uni-hannover.de/de/seminar/personenverzeichnis/fruehauf#), [Hadil Karawani](https://hadilkarawani.myfreesites.net/), [Natasha Korotkova](https://natasha-korotkova.github.io/), [Doris Penka](https://ling.sprachwiss.uni-konstanz.de/pages/home/penka/), and [Daniel Skibra](http://danielskibra.weebly.com/)) *Sinn und Bedeutung* 27: 209-227, Open Journal Systems.
 
@@ -55,7 +55,7 @@ author_profile: true
 
 (2021). ["Verum Accent is VERUM, but Not Always Focus."](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4959/4535) (with [Cory Bill](https://www.corybill.com/)) *Linguistic Society of America* 6(1): 188–202, LSA.
 
-(2021). ["*Believe* is Strong but Subjective: Experimental Evidence from Hedging."](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/950/874) (with [Cory Bill](https://www.corybill.com/) and Maryam Mohammadi) *Sinn und Bedeutung* 25: 497–514, Open Journal Systems.
+(2021). ["*Believe* is Strong but Subjective: Experimental Evidence from Hedging."](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/950/874) (with [Cory Bill](https://www.corybill.com/) and [Maryam Mohammadi](https://mohammadi-maryam.github.io/)) *Sinn und Bedeutung* 25: 497–514, Open Journal Systems.
 
 (2019). ["Strong Beliefs, Weak Commitments."](https://semanticsarchive.net/Archive/Tg3ZGI2M/Koev.pdf) *Sinn und Bedeutung* 23(2): 1–18, semanticsarchive.
 
