@@ -5,14 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 ------
-**Under Submission / In Revision**
-
-["Adverbs of Change and Dynamicity."](/files/adverbs_of_change_and_dynamicity.pdf)
-
-["On the Weakness of *Believe*."](/files/ontheweaknessofbelieve.pdf)
-
-["Question Bias from Polarity Focus."](/files/question_bias_from_polarity_focus.pdf) (with [Cory Bill](https://www.corybill.com/))
-
 **Book** 
 
 (2022). [*Parenthetical Meaning*](https://global.oup.com/academic/product/parenthetical-meaning-9780198869535?lang=en&cc=sg). Oxford Studies in Semantics and Pragmatics. OUP. [[chapter 1](/files/parenthetical_meaning_-_chapter_1.pdf)]  
