@@ -7,7 +7,7 @@ author_profile: true
 ------
 **Ben Gurion University**
 
-*Modality in Semantics*. B.A. level seminar. Instructor (Fall 2023–Spring 2024)
+*Modality in Semantics*. B.A. level seminar. Instructor (Fall 2024–Spring 2025)
 
 **University of Konstanz**
 
