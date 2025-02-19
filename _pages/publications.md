@@ -32,7 +32,7 @@ author_profile: true
 
 (Under contract). "Meaning Projection." In L. Mayol et al. (eds.): *Handbook of Linguistic Interfaces*. Cambridge University Press. [[draft](/files/MeaningProjection.pdf)]
 
-(2025). "Bias in Tag Questions." (with [Cory Bill](https://www.corybill.com/)) In T. Trinh et al. (eds.): *Biased Questions: Experimental Results and Theoretical Modelling*. Language Science Press, 145-178. [[preprint](/files/tag_questions__preprint_.pdf)]
+(2025). "Bias in Tag Questions." (with [Cory Bill](https://www.corybill.com/)) In T. Trinh et al. (eds.): *Biased Questions: Experimental Results and Theoretical Modelling*. Language Science Press, 145–178. [[preprint](/files/tag_questions__preprint_.pdf)]
 
 (2019). ["Adverbs of Change."](https://link.springer.com/chapter/10.1007/978-3-030-04438-1_14) In D. Altshuler and J. Rett (eds.): *The Semantics of Plurals, Focus, Degrees, and Times*. Essays in Honor of Roger Schwarzschild. Springer, 283–303. [[preprint](/files/Adverbs of change.pdf)]   
 *Note: A shorter version of this paper appeared in Semantics And Linguistic Theory 27: 22–42, LSA.* 
