@@ -5,10 +5,7 @@ main:
     url: /research/
     
   - title: "Publications"
-    url: /publications/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/       
     
   - title: "CV"
     url: /files/CV.pdf
