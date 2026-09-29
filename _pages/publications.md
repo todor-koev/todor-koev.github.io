@@ -12,7 +12,7 @@ author_profile: true
 
 **Journal Articles**
 
-(To appear). ["Biased Questions Project Answers to Resolve Issues."] *Languages*, SI: *(Not-)at-issueness*. [[preprint](/files/Projected Bias (preprint).pdf)]
+(To appear). "Biased Questions Project Answers to Resolve Issues." *Languages*, SI: *(Not-)at-issueness*. [[preprint](/files/ProjectedBias(preprint).pdf)]
 
 (2025). ["An Argument for a Strong Force Semantics of *Believe*."](https://direct.mit.edu/ling/article-abstract/doi/10.1162/ling_a_00544/124813/An-Argument-for-a-Strong-Force-Semantics-of?redirectedFrom=fulltext) *Linguistic Inquiry*. doi: 10.1162/ling_a_00544 [[preprint](/files/LI_squib.pdf)]
 
