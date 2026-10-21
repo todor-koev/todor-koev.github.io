@@ -12,11 +12,11 @@ author_profile: true
 
 **Journal Articles**
 
-(To appear). "Biased Questions Project Answers to Resolve Issues." (with Cory Bill) *Languages*, SI: *(Not-)at-issueness*. [[preprint](/files/ProjectedBias(preprint).pdf)]
+(2026). ["Biased Questions Project Answers to Resolve Issues."](https://www.mdpi.com/2226-471X/11/10/212) (with Cory Bill) *Languages* 11(10), 212 (SI: *(Not-)at-issueness*). doi: 10.3390/languages11100212 [[preprint](/files/ProjectedBias(preprint).pdf)]
 
 (2025). ["An Argument for a Strong Force Semantics of *Believe*."](https://direct.mit.edu/ling/article-abstract/doi/10.1162/ling_a_00544/124813/An-Argument-for-a-Strong-Force-Semantics-of?redirectedFrom=fulltext) *Linguistic Inquiry*. doi: 10.1162/ling_a_00544 [[preprint](/files/LI_squib.pdf)]
 
-(2025). ["Adverbs of Change and Dynamicity."](https://link.springer.com/article/10.1007/s11049-025-09661-9?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250319&utm_content=10.1007/s11049-025-09661-9) *Natural Language and Linguistic Theory*. doi: 10.1007/s11049-025-09661-9 [[preprint](/files/Adverbs of Change and Dynamicity.pdf)]  
+(2025). ["Adverbs of Change and Dynamicity."](https://link.springer.com/article/10.1007/s11049-025-09661-9?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250319&utm_content=10.1007/s11049-025-09661-9) *Natural Language and Linguistic Theory* 43: 2179--2220. doi: 10.1007/s11049-025-09661-9 [[preprint](/files/Adverbs of Change and Dynamicity.pdf)]
 
 (2023). ["Gradient At-issueness vs. Uncertainty about Binary At-issueness."](https://www.degruyter.com/document/doi/10.1515/tl-2023-2012/html) *Theoretical Linguistics* 49(3–4): 249–260. doi: 10.1515/tl-2023-2012 [[preprint](/files/gradient_at-issueness_vs._uncertainty_about_binary_at-issueness__prepublication_.pdf)]
 
