@@ -12,7 +12,7 @@ author_profile: true
 
 **Journal Articles**
 
-(2026). ["Biased Questions Project Answers to Resolve Issues."](https://www.mdpi.com/2226-471X/11/10/212) (with [Cory Bill](https://www.corybill.com/) *Languages* 11(10), 212 (SI: *(Not-)at-issueness*). doi: 10.3390/languages11100212 [[preprint](/files/ProjectedBias(preprint).pdf)]
+(2026). ["Biased Questions Project Answers to Resolve Issues."](https://www.mdpi.com/2226-471X/11/10/212) (with [Cory Bill](https://www.corybill.com/)) *Languages* 11(10), 212 (SI: *(Not-)at-issueness*). doi: 10.3390/languages11100212 [[preprint](/files/ProjectedBias(preprint).pdf)]
 
 (2025). ["An Argument for a Strong Force Semantics of *Believe*."](https://direct.mit.edu/ling/article-abstract/doi/10.1162/ling_a_00544/124813/An-Argument-for-a-Strong-Force-Semantics-of?redirectedFrom=fulltext) *Linguistic Inquiry*. doi: 10.1162/ling_a_00544 [[preprint](/files/LI_squib.pdf)]
 
