@@ -13,6 +13,7 @@ I earned my PhD in linguistics from [Rutgers University](https://ling.rutgers.ed
 My research is firmly grounded in theoretical semantics and pragmatics, approached from model-theoretic, dynamic, and probabilistic perspectives. I am particularly interested in topics such as parentheticals, at-issueness, evidentiality, modality, gradability, question bias, indefiniteness, and adverbial modification.   
 
 ---
+---
 permalink: /
 title: "Publications"
 excerpt: "Publications"
